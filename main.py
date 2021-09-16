@@ -6,6 +6,7 @@ import time
 ACCOUNT_EMAIL = "achin_sharma@icloud.com"
 ACCOUNT_PASSWORD = "discover220"
 PHONE = "9779185265"
+Hello = "My Name is hello"
 
 chrome_driver_path = "C:\Development\chromedriver.exe"
 
